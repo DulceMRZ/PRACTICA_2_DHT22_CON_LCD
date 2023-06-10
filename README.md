@@ -151,9 +151,16 @@ Cuando haya funcionado, verás los valores dentro del monitor serial como se mue
 
 ![](https://github.com/DulceMRZ/PRACTICA_2_DHT22_CON_LCD/blob/main/ESP32%20CON%20DHT22%20Y%20LCD%20-%20Wokwi%20ESP32,%20STM32,%20Arduino%20Simulator%20-%20Google%20Chrome%2010_06_2023%2007_32_34%20a.%20m..png?raw=true)
 
-#### Nota: Tu puedes cambiar la información a imprimir
  
+ **Comenatrio adicional**: Puedes programar la información de la siguiente manera: 
+ 
+![](https://github.com/DulceMRZ/PRACTICA_2_DHT22_CON_LCD/blob/main/Captura6.PNG?raw=true)
+
+
 ![](https://github.com/DulceMRZ/PRACTICA_2_DHT22_CON_LCD/blob/main/Captura4.PNG?raw=true)
+
+#### Nota: Tu puedes cambiar la información a imprimir
+
 
 # Créditos
 
